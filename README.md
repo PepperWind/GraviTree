@@ -1,5 +1,7 @@
 # GraviTree
 
+This is probably my biggest game on Android so far, with the LibGDX engine.
+
 Available on the Play Store: https://play.google.com/store/apps/details?id=fr.flavi1.gravitree.android.
 
 Once upon a time, an apple fell on Isaac Newton's head, and he discovered the laws of gravity. But was it only one apple ? Or a complete APPLE APOCALYPSE ?
